@@ -1,4 +1,5 @@
-![Snake animation](https://github.com/JustLiwag/JustLiwag/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/JustLiwag/JustLiwag/output/github-contribution-grid-snake.svg)
+
 <h2> Hi, I'm Justin Liwag! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
