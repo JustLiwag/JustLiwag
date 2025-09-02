@@ -1,88 +1,98 @@
-# <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hello, I'm Justin
+# <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hi, I'm Justin
+
+**BS Computer Science** @ Pamantasan ng Lungsod ng Maynila (2021–2025)  
+Aspiring full-stack developer, passionate about building impactful digital solutions.
+
+---
+
+## 👋 About Me
+
+I’m Justin—a curious coder, enthusiastic learner, and creative problem solver. Whether it’s web, mobile, or backend, I love crafting intuitive, efficient applications. I thrive in collaborative environments and enjoy turning ideas into real-world products. Let’s build something awesome together!
+
+---
+
+## 🛠️ Skills & Technologies
+
+<div align="center">
+
+**Languages:**<br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
+**Frameworks & Libraries:**<br>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white"/>
+
+**Databases:**<br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+**Tools:**<br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/-Data_Visualization-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+- **Manila City Library App**  
+  Mobile & desktop apps for book borrowing, QR scanning, and admin management.  
+  *Flutter & Firebase.*
+
+- **CalenDO (CS50 Final Project)**  
+  Weekly productivity calendar web app with export features.  
+  *Django, HTML/CSS/JS.*
+
+- **Office of Guidance and Testing Services (ERP Module)**  
+  Scheduling, appointments, and reporting for organizational processes.  
+  *Laravel + TALL stack.*
+
+- **CODESLAM Compiler**  
+  Custom programming language & compiler with GUI.  
+  *Python, Tkinter, RPLY.*
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JustLiwag&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-## 🚀 About Me
-
-I'm a passionate developer with expertise in building robust and scalable applications. My diverse project portfolio demonstrates my versatility across multiple programming languages and frameworks. I specialize in creating efficient solutions to complex problems with a focus on user experience and performance.
-
-- 🔭 I'm currently working on enhancing machine learning algorithms and data visualization tools
-- 🌱 I'm constantly learning and exploring new technologies
-- 👯 I'm open to collaborating on innovative projects
-- 💬 Ask me about full-stack development, machine learning, and game development!
-
-## 💻 Tech Stack
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frameworks & Libraries
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/-Data_Visualization-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
-
-</div>
-
-## 🏆 Featured Projects
-
-### 🌳 Enhancement Of Random Forest Algorithm
-An advanced implementation of Random Forest algorithms with custom enhancements for improved accuracy and performance.
-
-### 📊 data-visualization
-Interactive data visualization tools and dashboards for complex datasets.
-
-### 📆 calenDO
-A smart calendar and task management application with intuitive scheduling features.
-
-### 🎮 DECK-DASH-MEMORY-QUEST & Blackjack-Javascript-Game
-Engaging browser-based game.
-
-### 📱 Flutter Applications
-Multiple mobile applications built with Flutter, including MCL_Admin and MCL_User.
-
-### 💻 Web Development
-Full-stack web applications like Guidance Module for OGTS, ICTO-API.
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustLiwag&theme=radical" alt="GitHub Streak Stats" />
-  <br />
+  <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustLiwag&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
+---
 
-## 📫 Connect With Me
+## 📫 Contact Me
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/justin-liwag-9860852a9/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/JustLiwag">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="mailto:jeliwag15@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/justin-liwag-9860852a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
 ---
+
+*Thank you for visiting my profile! If you’re interested in collaboration, opportunities, or just want to connect, feel free to reach out.* 🚀
