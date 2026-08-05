@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hi, I'm Justin
 
 **BS Computer Science** @ Pamantasan ng Lungsod ng Maynila (2021–2025)  
-Aspiring full-stack developer, passionate about building impactful digital solutions.
+A full-stack developer, passionate about building impactful digital solutions.
 
 ---
 
