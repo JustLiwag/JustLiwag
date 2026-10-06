@@ -85,7 +85,10 @@ I’m Justin—a curious coder, enthusiastic learner, and creative problem solve
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustLiwag&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JustLiwag&theme=radical"
+    alt="Most Used Languages"
+  />
   <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustLiwag&layout=compact&theme=radical" alt="Top Languages" />
 </div>
